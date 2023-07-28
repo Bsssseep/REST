@@ -3,6 +3,8 @@
 
  const app = express ();
 
+ app.use('/places', require('./controllers/places'));
+
  app.get ('/', (req,res) => {
     res.send(`
     <body style - "margin: 0;">
@@ -42,7 +44,7 @@ app.get('/:color', (req,res) => {
                   background-color: ${myColor} ;"> 
       <h2 style= "text-align:center;"> NAV BAR </h2>
     </div>
-    <h1 style = "color: ${myColor};"> ${myColor} Page </h1>
+    <h1 style = "color: ${myColor};"> Page </h1>
     </body>
     `);
    
