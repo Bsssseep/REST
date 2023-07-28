@@ -3,7 +3,7 @@
 
  const app = express ();
 
- app.use('/places', require('./controllers/places.js'));
+ app.use('/places', require(`./controllers/places.js`));
 
  app.get ('/', (req,res) => {
     res.send(`
