@@ -3,7 +3,7 @@
 
  const app = express ();
 
- app.use('/places', require('./controllers/places'));
+ app.use('/places', require('./controllers/places.js'));
 
  app.get ('/', (req,res) => {
     res.send(`
@@ -19,6 +19,8 @@
 
  });
 
+
+ 
 app.get('/teal', (req,res) => {
 
    res.send(`
