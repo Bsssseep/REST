@@ -1,0 +1,33 @@
+2016 Election cyber attack 
+
+Technology has been able to progress at an increadible rate. The technological 
+boom has created many amazing opportunities for the world, however it has also been 
+used to create technological harm.  One of such instances of what one could call harmful 
+is the 2016 United States election, which consisted of a multitude of cyber attack strategies. 
+The 2016 election cyber attack was a production of russian hackers whom used Phishing Attacks, Malware Attacks,
+and data theft in order to infeltrade into Americans personal information.
+The vulneralibility was discovered through a multitude of factors, such as cybersecurity investigations, monitoring, 
+and whistleblowers. Nevertheless the vulnerability of the attacks were brought to light a little to late. As the cyber attackers
+were able to expoit the vulnerability through gaining acess to peoples email accounts and
+sensitive data. The malware attacks were of hight risk as it allowed the attackers to 
+infiltrate computer systems and networks.  Once the hackers had gained access they were allowed to move 
+laterally witihin the network and gain unauthorized access to critical and classified systems.  In this case it was 
+goverment clasified systems which attained information about the election that was currently ongoing.  Such acess allowed 
+the hackers to also create and spread a great amount of false information as the election was occuring. They 
+were granted access to analytical information that allowed for them to tamper with data which was strictly classified. Such 
+manipulation happening in a multitude of instances and little cyber security agareness on the United States systems caused the 2016 United States election
+to be historic in more than one way.  The United states Presidential election was an act of cyber espionage which was attrivuted to the Russian government
+hackers. It was a great learning lesson for the United States Goverment, as a nation is now aware of the vulnerabilities and has used such an instances to 
+raise awareness on cyber security. 
+
+
+
+The Biggest Password Leak 
+
+In June 2021 there was a massive compilation of passwords that were leaked.  Over 8.4 billion passwords were exposed in the RockYou2021 cyber attack. 
+The event is known as the largest breach since the RockYou 2009 incident which affected 32 million passwords.  The information was leaked by a forum user
+who posted a massive 100GB file that contained the entries of passwords, which is theoerized to have been a combination of previous data leaks and breaches.  
+It is presumed that the hackers used phishihng attacks in order to attain the information.  There were many factors that facilitated the breach, however
+one which cannot be passed over is the weak passwords which can be easily guessed and making it easier for cyber attackers to gain access to more of
+the users personal information.    The data breaches are not out of normal for hackers, passwords are always highly sought out in the hacking realm. Credentails were 
+to types of infotmion stolen in data breaches, averaging of 60% of United States breaches.  
